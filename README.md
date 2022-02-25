@@ -1,4 +1,4 @@
-# Frontend Mentor - Time tracking dashboard solution
+# Frontend Mentor - Time tracking dashboard v2 solution
 
 ## Overview
 
@@ -8,7 +8,7 @@
 
 ### Links
 
-- Solution URL: Working on it.
+- Solution URL: https://viniciusdsv93.github.io/Time-tracking-dashboard-v2/
 
 ## My process
 
